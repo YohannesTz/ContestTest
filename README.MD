@@ -10,7 +10,16 @@ I didn’t have the hardware to build Telegram Android from source, so I decided
 
 ## 📸 Demo
 
-preview/preview.gif
+<table>
+  <tr>
+    <td><img src="preview/profile_collapsed.png" width="300"/></td>
+    <td><img src="preview/profile_uncollapsed.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Collapsed</b></td>
+    <td align="center"><b>Uncollapsed</b></td>
+  </tr>
+</table>
 
 ---
 
