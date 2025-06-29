@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ContestTest</string>
+    <string name="title_activity_motion_layout_screen">MotionLayoutScreen</string>
+    <string name="post_image">Post Image</string>
+    <string name="ronald_copper">Ronald Copper</string>
+    <string name="last_seen_2_days_ago">last seen 2 days ago</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="message">Message</string>
+    <string name="mute">Mute</string>
+    <string name="call">Call</string>
+    <string name="video">Video</string>
+    <string name="designer_based_in_the_uk">Designer based in the UK.</string>
+    <string name="bio">Bio</string>
+    <string name="ronald_copper_username">\@ronald_copper</string>
+    <string name="username">Username</string>
+    <string name="go_back_icon">go back icon</string>
+    <string name="menu_icon">Menu Icon</string>
+    <string name="octave_bio">Octave was a tall blue-skinned male with a short indigo blue Afro hairstyle and sideburns and dark blue eyes in The Crescendolls.</string>
+    <string name="octave_crescendolls">Octave, Crescendolls</string>
+    <string name="name_sticker">Name sticker</string>
+    <string name="octave">\@Octave</string>
+</resources>
